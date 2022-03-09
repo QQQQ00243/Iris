@@ -15,7 +15,7 @@
 
 ### Softmax Classification(accuracy=96.7%)
 
-![softmax_learning_curves](.\images\softmax_learning_curves.png)
+![softmax_learning_curves](https://github.com/QQQQ00243/Iris/blob/main/images/softmax_learning_curves.png)
 
 ### DecisionTree
 
@@ -33,17 +33,17 @@ What the tree looks like
 
 parameters: {'criterion': 'gini', 'max_depth': 3, 'max_features': 4, 'max_leaf_nodes': 5}
 
-![learning_curves_best_tree_classifier](.\images\decision_tree_learning_curves_after.png)
+![learning_curves_best_tree_classifier](https://github.com/QQQQ00243/Iris/blob/main/images/decision_tree_learning_curves_after.png)
 
-![best_tree_plot](.\images\tree_after_tuning.png)
+![best_tree_plot](https://github.com/QQQQ00243/Iris/blob/main/images/tree_after_tuning.png)
 
 ## Error Analysis
 
 We notice that there is no classification error between setosa and the other two classes. By looking at the scatter plot we can tell immediately that the cluster of setosa do not intersect with the other two.  Instances at the intersection of the clusters of versicolor and verginica.
 
-![Confusion matrix](.\images\conf_mx.png)
+![Confusion matrix](https://github.com/QQQQ00243/Iris/blob/main/images/conf_mx.png)
 
-![Error](.\images\error_pairplot.png)
+![Error](https://github.com/QQQQ00243/Iris/blob/main/images/error_pairplot.png)
 
 
 
