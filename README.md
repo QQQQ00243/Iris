@@ -21,13 +21,13 @@
 
 #### Before Fine Tuning(accuracy=93.3%)
 
-![learning_curves_decision_tree_before_fine_tuning](.\images\decision_tree_learning_curves_before.png)
+![learning_curves_decision_tree_before_fine_tuning](https://github.com/QQQQ00243/Iris/blob/main/images/decision_tree_learning_curves_before.png)
 
 Strongly overfitted!
 
 What the tree looks like
 
-![tree_before_tuning](.\images\tree_before_tuning.png) 
+![tree_before_tuning](https://github.com/QQQQ00243/Iris/blob/main/images/tree_before_tuning.png) 
 
 #### After Fine Tuning(accuracy=97.3%)
 
