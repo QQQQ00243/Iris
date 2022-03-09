@@ -2,7 +2,8 @@
 
 ## Data Visualization
 
-![pair plot](.\images\pairplot.png)
+
+![pair plot](https://github.com/QQQQ00243/Iris/blob/main/images/pairplot.png)
 
 ## Stratified Shuffle Split
 
@@ -10,7 +11,7 @@
 
 ### SGD Classification(accuracy=76.7%)
 
-![SGD Classifier Learning Curves](.\images\SGD_learning_curves.png)
+![SGD Classifier Learning Curves](https://github.com/QQQQ00243/Iris/blob/main/images/SGD_learning_curves.png)
 
 ### Softmax Classification(accuracy=96.7%)
 
